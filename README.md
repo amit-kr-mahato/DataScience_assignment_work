@@ -1,6 +1,14 @@
 # DataScience Assignment Work
 
 - [Mini Assignment 1](Mini_assignment.ipynb)
-- [Mini Assignment 3](Mini_assignment-3.ipynb)
-- [Mini Assignment 5](Mini_assignment-5.ipynb)
+- [Mini Assignment 3](Mini_Assignment-3.ipynb)
+- [Mini Assignment 5](Mini_Assignment-5.ipynb)
 - [Data Science Assignment](data_science_assignment.ipynb)
+- [Operators](Operators.ipynb)
+- [file-handling-and-exception](file-handling-and-exception.ipynb)
+- [basic](basic.py)
+- [data](data.txt)
+- [fib](fib.py)
+- [file](file.txt)
+- [list-operator](list-operator.ipynb)
+
