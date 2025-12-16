@@ -1,10 +1,6 @@
-# DataScience_assignment_work
+# DataScience Assignment Work
 
-[README](Mini_assignment.ipynb)
-[README](Mini_assignment-3.ipynb)
-
-[README](Mini_assignment-5.ipynb)
-
-[README](data_science_assignment.ipynb)
-
-
+- [Mini Assignment 1](Mini_assignment.ipynb)
+- [Mini Assignment 3](Mini_assignment-3.ipynb)
+- [Mini Assignment 5](Mini_assignment-5.ipynb)
+- [Data Science Assignment](data_science_assignment.ipynb)
