@@ -11,4 +11,6 @@
 - [fib](fib.py)
 - [file](file.txt)
 - [list-operator](list-operator.ipynb)
+- [Basic_panda.ipynb](Basic_panda.ipynb)
+- [iris.csv](iris.csv)
 
