@@ -13,4 +13,5 @@
 - [list-operator](list-operator.ipynb)
 - [Basic_panda.ipynb](Basic_panda.ipynb)
 - [iris.csv](iris.csv)
-
+- [Chapter_3_4_questions](Chapter_3_4_questions.ipynb)
+- [ chapter_5 ](chapter_5.ipynb)
